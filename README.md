@@ -1,0 +1,1 @@
+This repository demonstrates a common Python error: an unclosed parenthesis in a function call. The `bug.py` file contains the erroneous code, while `bugSolution.py` provides the corrected version.  The error results in a `SyntaxError` because the interpreter cannot parse the incomplete function call. The solution is simply to add the closing parenthesis.
